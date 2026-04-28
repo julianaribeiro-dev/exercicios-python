@@ -1,7 +1,7 @@
 # exercicios-python
 Repositório com exercícios propostos em sala de aula para apresentação de códigos em Python. 
 
-EXERCÌCIOS
+EXERCÍCIOS
 
 1. Faça um programa que converta metros para centímetros.
 
@@ -17,16 +17,16 @@ FÓRMULA: C = 5 * ((F-32) / 9).
 6. Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.
 
 7. Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
-  1) o produto do dobro do primeiro com metade do segundo .
-  2) a soma do triplo do primeiro com o terceiro.
-  3) o terceiro elevado ao cubo.
+   A) o produto do dobro do primeiro com metade do segundo .
+   B) a soma do triplo do primeiro com o terceiro.
+   C) o terceiro elevado ao cubo.
 
-8. Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu IMC (índice de massa corporal).
+9. Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu IMC (índice de massa corporal).
 FÓRMULA: peso/ (altura **2)
 
-9. Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
-  1) Para homens: (72.7*h) - 58
-  2) Para mulheres: (62.1*h) - 44.7
+10. Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
+  A) Para homens: (72.7*h) - 58
+  B) Para mulheres: (62.1*h) - 44.7
 
 10. Um sistema de cadastro precisa classificar automaticamente os usuários com base na idade informada. O usuário deverá informar sua idade em anos inteiros, e o sistema deve classificá-lo conforme as seguintes regras:
   De 0 a 12 anos: Criança
