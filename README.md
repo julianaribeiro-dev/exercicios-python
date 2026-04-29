@@ -1,2 +1,2 @@
 # exercicios-python
-Repositório com exercícios propostos em sala de aula para apresentação e estudos da linguagem Python. 
+Repositório com exercícios propostos em sala de aula para estudos de algoritmo e lógica da programação utilizando Python. 
