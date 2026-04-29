@@ -1,0 +1,14 @@
+# Arquivos de configuração do PyCharm
+.idea/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Outros arquivos que não são código
+*.log
+*.tmp
