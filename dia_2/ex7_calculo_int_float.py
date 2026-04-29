@@ -1,0 +1,6 @@
+inteiro = int(input('Digite um numero inteiro'))
+inteiro2 = int(input('Digite outro numero inteiro'))
+real = float(input('Digite um numero real'))
+print(inteiro*(inteiro2/2))
+print(3*inteiro+real)
+print(real**3)
