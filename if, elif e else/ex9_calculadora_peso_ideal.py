@@ -1,3 +1,4 @@
+#Tendo como dado de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal.
 altura = float(input('Digite sua altura'))
 sexo = str(input('Digite o seu sexo: ')).upper()
 if sexo == 'M':
@@ -5,4 +6,3 @@ if sexo == 'M':
 elif sexo == 'F':
     pesoideal = (62.1*altura)-44.7
 print(pesoideal)
-

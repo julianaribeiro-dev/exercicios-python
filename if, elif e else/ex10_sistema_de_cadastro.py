@@ -1,3 +1,4 @@
+#Um sistema de cadastro precisa classificar automaticamente os usuários com base na idade informada.
 idade = int(input('Digite sua idade: '))
 if 0 <= idade <=12:
     print('Criança')
